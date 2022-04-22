@@ -634,11 +634,24 @@ namespace Oxide.Game.Rust
                 new DateTime(2022, 12, 31), recycler, item);
         }
 
+        [HookMethod("OnSleepingBagDestroy")]
+        private object OnSleepingBagDestroy(SleepingBag sleepingBag, ulong playerId)
+        {
+            BasePlayer basePlayer = BasePlayer.FindByID(playerId);
+            if (basePlayer != null)
+            {
+                return Interface.Oxide.CallDeprecatedHook("OnSleepingBagDestroy", "OnSleepingBagDestroy(SleepingBag sleepingBag, ulong playerId)",
+                    new DateTime(2022, 12, 31), sleepingBag, basePlayer);
+            }
+
+            return null;
+        }
+
         [HookMethod("OnVendingShopOpened")]
-        private void OnVendingShopOpened(VendingMachine vendingMachine, BasePlayer player)
+        private void OnVendingShopOpened(VendingMachine vendingMachine, BasePlayer basePlayer)
         {
             Interface.Oxide.CallDeprecatedHook("OnOpenVendingShop", "OnVendingShopOpened(VendingMachine vendingMachine, BasePlayer player)",
-                new DateTime(2022, 12, 31), vendingMachine, player);
+                new DateTime(2022, 12, 31), vendingMachine, basePlayer);
         }
 
         #endregion

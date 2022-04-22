@@ -1,6 +1,6 @@
 {
   "Name": "Rust",
-  "TargetDirectory": "D:\\Servers\\Rust\\RustDedicated_Data\\Managed",
+  "TargetDirectory": "D:\\Servers\\Rust-aux01\\RustDedicated_Data\\Managed",
   "Manifests": [
     {
       "AssemblyName": "Assembly-CSharp.dll",
@@ -69,7 +69,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "PeU3jlUR1KaRPMkqlD4Z7OmUzQcaxvhsEqjuXJbRvlc=",
+            "MSILHash": "Qn6hgE3/RWcqQ32BZ1+BHW3w/ov0PgFwLMFQltKUmsM=",
             "BaseHookName": null,
             "HookCategory": "Server"
           }
@@ -77,7 +77,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 19,
+            "InjectionIndex": 20,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
             "ArgumentString": "l0, a0",
@@ -96,7 +96,7 @@
                 "Network.Connection"
               ]
             },
-            "MSILHash": "+D7nHkjgmdpeO1/m3nbWyHS5eYh2yqhbMH2w7SAbDPk=",
+            "MSILHash": "ulTVNlxKm3ZiD6LL1+WHpE5/NLjU+aw9RbXAy2CIVlI=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -476,7 +476,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 100,
+            "InjectionIndex": 104,
             "ReturnBehavior": 1,
             "ArgumentBehavior": 4,
             "ArgumentString": "this, a0",
@@ -494,7 +494,7 @@
                 "HitInfo"
               ]
             },
-            "MSILHash": "mGdUogpRFpG+Xf8MBwS1EHEb1krrbAROMPAOEJNHTBw=",
+            "MSILHash": "0/fPZh0uUAETg773gf/maPVadfpGDbHJMG3SJpKmpy4=",
             "BaseHookName": null,
             "HookCategory": "Entity"
           }
@@ -629,7 +629,7 @@
                 "Network.Connection"
               ]
             },
-            "MSILHash": "zK3I9xSGovjOmHd9Jwuxt+Z+ISw0IiiP9QvSVXkFHlo=",
+            "MSILHash": "1vIwUcaymDUZW5H+Hd4B8Zcg/lVVjMQPoCuTwVG8aoA=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -862,7 +862,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "T8C1px3DCgnnvpWfP8z1eJj3YjcgmuTtS75DNuEMQZA=",
+            "MSILHash": "zz5cy3rp5BRLDVpJ93lQmRobBc+jqzyTT49bqtkg/0k=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -999,7 +999,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 14,
+            "InjectionIndex": 18,
             "ReturnBehavior": 1,
             "ArgumentBehavior": 3,
             "ArgumentString": null,
@@ -1017,7 +1017,7 @@
                 "HitInfo"
               ]
             },
-            "MSILHash": "3iiTbaYGovIclIdBGSICHhNjqOpSI3KVhckqp1SiXbQ=",
+            "MSILHash": "Equ/M8DcU20dEc9ejk6je6NrKUtaQVg/qjlsYvOgx2s=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -1223,7 +1223,7 @@
                 "BasePlayer"
               ]
             },
-            "MSILHash": "7ivRvTCb5E599UVH5gqpMeCL95horVBHKN5BlpXpCE0=",
+            "MSILHash": "TRncpMnVJ0JyvbSXNB9heRkLRZh5QyISezSby2a2ks4=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -1283,7 +1283,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 141,
+            "InjectionIndex": 145,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
             "ArgumentString": "this, a0.player, l3, l2",
@@ -1301,7 +1301,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "GO5ISlXsq1fUzPpFs6HLVxRAbCl4XE/GnEmQtzQKlVM=",
+            "MSILHash": "4LdEHYqnfisrfWtQmGXTikAyVwFwfHSssM5ez5wX/L4=",
             "BaseHookName": null,
             "HookCategory": "Weapon"
           }
@@ -2223,7 +2223,7 @@
                 "UnityEngine.Quaternion"
               ]
             },
-            "MSILHash": "ysi/9qADSC1qc92YMKdTE9joUr5WhI6iKiF3jp0+pQw=",
+            "MSILHash": "FoQNRhl/pNx+oVxkU7GfvA2vVSFIKCK0yDt+hiaNPbA=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -2362,7 +2362,7 @@
                 "Network.Message"
               ]
             },
-            "MSILHash": "MMB2xp56sFS3VYqUv8E/1+dsjOzCTR2iZpPgc7XVlfE=",
+            "MSILHash": "xZm+p/Z5UxqIMfR1x05WROLz7hftReneXakyTRkDTRc=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -2613,7 +2613,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "e5h2zspknR8Mf+0W+oDPk0KkZPlEmBrju0ba6wCC988=",
+            "MSILHash": "dYRuKbNjQ07WIm5BSkbJfovfV+woXYjZdhffH+N/e0w=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -3184,7 +3184,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "YvqSLyTKsqr2SrD77/k+OE5BU2YUIYAEi6TpPhmUtJM=",
+            "MSILHash": "xon/hwi4H4NOUUhNMDYZEDbdVuZFmoAvZH+CiGUmtCA=",
             "BaseHookName": null,
             "HookCategory": "Server"
           }
@@ -3440,7 +3440,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "RFZu0mx4YZ58yn8eeo6E6V/4qNNvwORx0d5taoi6Cow=",
+            "MSILHash": "k041+UJqczO5cnzk8fFi3+vHh4AnJnHrFqETmaf3v+U=",
             "BaseHookName": null,
             "HookCategory": "Item"
           }
@@ -3676,7 +3676,7 @@
               {
                 "OpCode": "brtrue_s",
                 "OpType": "Instruction",
-                "Operand": 302
+                "Operand": 303
               },
               {
                 "OpCode": "ldarg_0",
@@ -3690,8 +3690,8 @@
               }
             ],
             "HookTypeName": "Modify",
-            "Name": "OnRecycleItem [patch]",
-            "HookName": "OnRecycleItem [patch]",
+            "Name": "OnItemRecycle [2]",
+            "HookName": "OnItemRecycle [2]",
             "AssemblyName": "Assembly-CSharp.dll",
             "TypeName": "Recycler",
             "Flagged": false,
@@ -3701,9 +3701,9 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "RFZu0mx4YZ58yn8eeo6E6V/4qNNvwORx0d5taoi6Cow=",
+            "MSILHash": "k041+UJqczO5cnzk8fFi3+vHh4AnJnHrFqETmaf3v+U=",
             "BaseHookName": "OnItemRecycle",
-            "HookCategory": "_Patches"
+            "HookCategory": "Item"
           }
         },
         {
@@ -3902,7 +3902,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "9OS/27Hq7GRNfHmhrGe3Nt6nkqqY1k2yV8D7SLqDqNs=",
+            "MSILHash": "grx5PDqhkMKmCrSi6ljhuR11Qz7aU0HVj9ssqbCsJtI=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -4567,32 +4567,6 @@
             "MSILHash": "ANcz1VUGV7LTfPlUEr1tRCHFMBZ/EoDKSWHcK4XN1Rc=",
             "BaseHookName": null,
             "HookCategory": "Vehicle"
-          }
-        },
-        {
-          "Type": "Simple",
-          "Hook": {
-            "InjectionIndex": 58,
-            "ReturnBehavior": 0,
-            "ArgumentBehavior": 4,
-            "ArgumentString": "l2, l3",
-            "HookTypeName": "Simple",
-            "Name": "OnPlayerKicked [eac]",
-            "HookName": "OnPlayerKicked",
-            "AssemblyName": "Assembly-CSharp.dll",
-            "TypeName": "EACServer",
-            "Flagged": false,
-            "Signature": {
-              "Exposure": 0,
-              "Name": "HandleClientUpdate",
-              "ReturnType": "System.Void",
-              "Parameters": [
-                "EasyAntiCheat.Server.Hydra.ClientStatusUpdate`1<EasyAntiCheat.Server.Hydra.Client>"
-              ]
-            },
-            "MSILHash": "bpAfaNJLCgcoflZ0drJoYo8JHmrm/gT8gEOvZzdR4rw=",
-            "BaseHookName": null,
-            "HookCategory": "Player"
           }
         },
         {
@@ -6680,7 +6654,7 @@
                 "System.String"
               ]
             },
-            "MSILHash": "faGHZB0akrJXFtGBTv8NapAxlUGbYJ3u/V6e9KAc9sI=",
+            "MSILHash": "GRTSa5s+Ka1e1cqkAaVIrtDC84b3P4+F4FkM8qtRV7Q=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -7657,7 +7631,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "kWd3KuLzjxkTNVVyV0JuqQWxvenQNYL8O3pSO796sxE=",
+            "MSILHash": "GgnzhBlErB70C5W/h0Mxx0vznyil/cK0JC+VRxzgVSM=",
             "BaseHookName": null,
             "HookCategory": "Entity"
           }
@@ -7899,7 +7873,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 28,
+            "InjectionIndex": 37,
             "ReturnBehavior": 1,
             "ArgumentBehavior": 3,
             "ArgumentString": null,
@@ -7917,7 +7891,7 @@
                 "BasePlayer"
               ]
             },
-            "MSILHash": "apK0iCCyZdPDyzFm21/+lud6HU7/MPUsMFSmMy+ajEI=",
+            "MSILHash": "8rpPdYa/P5B2ZnXeVB82Lbkt6Zp9P3jpLiR+e9nhgxs=",
             "BaseHookName": null,
             "HookCategory": "Network"
           }
@@ -7945,66 +7919,6 @@
             },
             "MSILHash": "kl0ycZYmSt2adK6JXfc9Kr/8zyIyYDqDchhypuXVh1Q=",
             "BaseHookName": null,
-            "HookCategory": "Player"
-          }
-        },
-        {
-          "Type": "Simple",
-          "Hook": {
-            "InjectionIndex": 65,
-            "ReturnBehavior": 0,
-            "ArgumentBehavior": 4,
-            "ArgumentString": "a4, a3",
-            "HookTypeName": "Simple",
-            "Name": "IOnPlayerCommand",
-            "HookName": "IOnPlayerCommand",
-            "AssemblyName": "Assembly-CSharp.dll",
-            "TypeName": "ConVar.Chat",
-            "Flagged": false,
-            "Signature": {
-              "Exposure": 3,
-              "Name": "sayAs",
-              "ReturnType": "System.Boolean",
-              "Parameters": [
-                "ConVar.Chat/ChatChannel",
-                "System.UInt64",
-                "System.String",
-                "System.String",
-                "BasePlayer"
-              ]
-            },
-            "MSILHash": "6R2eaOSgpuk3wyTzbnDIE4Os5a8U79CRQxtF2RdrDtM=",
-            "BaseHookName": null,
-            "HookCategory": "Player"
-          }
-        },
-        {
-          "Type": "Simple",
-          "Hook": {
-            "InjectionIndex": 75,
-            "ReturnBehavior": 1,
-            "ArgumentBehavior": 4,
-            "ArgumentString": "a1, a2, l1, a0, a4",
-            "HookTypeName": "Simple",
-            "Name": "IOnPlayerChat",
-            "HookName": "IOnPlayerChat",
-            "AssemblyName": "Assembly-CSharp.dll",
-            "TypeName": "ConVar.Chat",
-            "Flagged": false,
-            "Signature": {
-              "Exposure": 3,
-              "Name": "sayAs",
-              "ReturnType": "System.Boolean",
-              "Parameters": [
-                "ConVar.Chat/ChatChannel",
-                "System.UInt64",
-                "System.String",
-                "System.String",
-                "BasePlayer"
-              ]
-            },
-            "MSILHash": "6R2eaOSgpuk3wyTzbnDIE4Os5a8U79CRQxtF2RdrDtM=",
-            "BaseHookName": "IOnPlayerCommand",
             "HookCategory": "Player"
           }
         },
@@ -8190,7 +8104,7 @@
                 "System.UInt32"
               ]
             },
-            "MSILHash": "uAfDPEVuqonDAxvUsbpqS8pTg9EV7o3Py67M3WGAIt0=",
+            "MSILHash": "HPOZNhVpcM4F0X/q/Z15KEMMWyducPgHdyfRDllU7FU=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -8371,32 +8285,6 @@
             "MSILHash": "dWtXQ7VICNiVEqctThyiYsZo+maZJ1tIEkoP+51eTM8=",
             "BaseHookName": null,
             "HookCategory": "Resource"
-          }
-        },
-        {
-          "Type": "Simple",
-          "Hook": {
-            "InjectionIndex": 91,
-            "ReturnBehavior": 0,
-            "ArgumentBehavior": 4,
-            "ArgumentString": "l2, l3",
-            "HookTypeName": "Simple",
-            "Name": "OnPlayerBanned [EAC]",
-            "HookName": "OnPlayerBanned",
-            "AssemblyName": "Assembly-CSharp.dll",
-            "TypeName": "EACServer",
-            "Flagged": false,
-            "Signature": {
-              "Exposure": 0,
-              "Name": "HandleClientUpdate",
-              "ReturnType": "System.Void",
-              "Parameters": [
-                "EasyAntiCheat.Server.Hydra.ClientStatusUpdate`1<EasyAntiCheat.Server.Hydra.Client>"
-              ]
-            },
-            "MSILHash": "bpAfaNJLCgcoflZ0drJoYo8JHmrm/gT8gEOvZzdR4rw=",
-            "BaseHookName": "OnPlayerKicked [eac]",
-            "HookCategory": "Player"
           }
         },
         {
@@ -8969,7 +8857,7 @@
                 "Network.Connection"
               ]
             },
-            "MSILHash": "lEqD9jmgKL/oSh0k7m/+VuKSWLuRXUYKINv62eP7MV4=",
+            "MSILHash": "4wGArqtM3Jtlacd9MvkLPm3rbtfEOl/Jv3Tk7hkHifM=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -10404,7 +10292,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "zQlNJmKS9p4runBniQE23l3MUglaYBYqCGpgA7l6Xig=",
+            "MSILHash": "10kX0mplV9ijawbRrdBfu+dH+q20s+aUEYp4V7IqZsw=",
             "BaseHookName": null,
             "HookCategory": "Server"
           }
@@ -10534,14 +10422,14 @@
             "TypeName": "ServerMgr",
             "Flagged": false,
             "Signature": {
-              "Exposure": 0,
+              "Exposure": 2,
               "Name": "SpawnNewPlayer",
               "ReturnType": "System.Void",
               "Parameters": [
                 "Network.Connection"
               ]
             },
-            "MSILHash": "uyIi/DuuxuNbYVAACLVrk7x2L9Xd/klTwKDFD/jjYTs=",
+            "MSILHash": "YvBPV3IoWCiATAWBl/Sdx7hxFsnP6MaOBnOGPBRDY3s=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -11159,7 +11047,7 @@
         {
           "Type": "Modify",
           "Hook": {
-            "InjectionIndex": 12,
+            "InjectionIndex": 11,
             "RemoveCount": 0,
             "Instructions": [
               {
@@ -11185,7 +11073,7 @@
               {
                 "OpCode": "brfalse_s",
                 "OpType": "Instruction",
-                "Operand": 12
+                "Operand": 11
               },
               {
                 "OpCode": "ldc_i4_0",
@@ -11209,11 +11097,11 @@
               "Name": "DestroyBag",
               "ReturnType": "System.Boolean",
               "Parameters": [
-                "BasePlayer",
+                "System.UInt64",
                 "System.UInt32"
               ]
             },
-            "MSILHash": "Ml242odWdz8l5W5gyFrRfxgrA4n96X3+BvUsxALBHb8=",
+            "MSILHash": "E5xdHBfp4B2T5NeAWDhxJXT3SKi0Y6tFV9BNNQCYv98=",
             "BaseHookName": null,
             "HookCategory": "Entity"
           }
@@ -11221,10 +11109,10 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 35,
+            "InjectionIndex": 39,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
-            "ArgumentString": "l0, a0",
+            "ArgumentString": "l0, l1",
             "HookTypeName": "Simple",
             "Name": "OnSleepingBagDestroyed",
             "HookName": "OnSleepingBagDestroyed",
@@ -11236,11 +11124,11 @@
               "Name": "DestroyBag",
               "ReturnType": "System.Boolean",
               "Parameters": [
-                "BasePlayer",
+                "System.UInt64",
                 "System.UInt32"
               ]
             },
-            "MSILHash": "Ml242odWdz8l5W5gyFrRfxgrA4n96X3+BvUsxALBHb8=",
+            "MSILHash": "E5xdHBfp4B2T5NeAWDhxJXT3SKi0Y6tFV9BNNQCYv98=",
             "BaseHookName": "OnSleepingBagDestroy",
             "HookCategory": "Entity"
           }
@@ -13188,7 +13076,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "0Iz0wJcw6KN4RXFQ8k89ZU0ieFJwhuWu5vSSv+McS/M=",
+            "MSILHash": "u+5goa9n18ZEFVIq7qHlkZOkOs3UCagfaCgm5bEDiG4=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -13196,7 +13084,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 97,
+            "InjectionIndex": 101,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
             "ArgumentString": "l0, this",
@@ -13212,7 +13100,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "0Iz0wJcw6KN4RXFQ8k89ZU0ieFJwhuWu5vSSv+McS/M=",
+            "MSILHash": "u+5goa9n18ZEFVIq7qHlkZOkOs3UCagfaCgm5bEDiG4=",
             "BaseHookName": "OnDemoRecordingStart",
             "HookCategory": "Player"
           }
@@ -14658,7 +14546,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "GO5ISlXsq1fUzPpFs6HLVxRAbCl4XE/GnEmQtzQKlVM=",
+            "MSILHash": "4LdEHYqnfisrfWtQmGXTikAyVwFwfHSssM5ez5wX/L4=",
             "BaseHookName": "OnWeaponFired",
             "HookCategory": "_Patches"
           }
@@ -14897,7 +14785,7 @@
                 "Network.Message"
               ]
             },
-            "MSILHash": "EeLGulYeJ7ZvwHqANi9E+5MRkXbfM384T4XhQCUfyOE=",
+            "MSILHash": "vibUpXhyPWT9EgEZp9Bn844Hf03teVWlohS7SF2nguQ=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -14934,13 +14822,13 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 80,
+            "InjectionIndex": 15,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
-            "ArgumentString": "this, l0",
+            "ArgumentString": "l0, this",
             "HookTypeName": "Simple",
-            "Name": "OnRespawnInformationGiven",
-            "HookName": "OnRespawnInformationGiven",
+            "Name": "OnRespawnOptionsGiven",
+            "HookName": "OnRespawnOptionsGiven",
             "AssemblyName": "Assembly-CSharp.dll",
             "TypeName": "BasePlayer",
             "Flagged": false,
@@ -14950,7 +14838,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "oPQEofdyqtpol0PiDabX7nynrJ32AxtAWQQbFgogpRI=",
+            "MSILHash": "3QnKL6AgxH1rwMm1mT8i8LWsvUd0E9CfjSPa6KPLink=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -15050,7 +14938,7 @@
                 "Network.Message"
               ]
             },
-            "MSILHash": "PbkGC9LgOrgCN7drXYLFi6zzhoVlR5am4XgwHXApzk4=",
+            "MSILHash": "sbzevMAqIJlUlBGey5XOIlf10TJBl84Hp3TpUbXD0VI=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -15531,7 +15419,7 @@
                 "UnityEngine.Quaternion"
               ]
             },
-            "MSILHash": "ysi/9qADSC1qc92YMKdTE9joUr5WhI6iKiF3jp0+pQw=",
+            "MSILHash": "FoQNRhl/pNx+oVxkU7GfvA2vVSFIKCK0yDt+hiaNPbA=",
             "BaseHookName": "OnPlayerRespawned",
             "HookCategory": "_Patches"
           }
@@ -16377,7 +16265,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "xDFWoa2oqoI+TeQBPm+Y636B+4Oz7mDDe51RNpc/ZG4=",
+            "MSILHash": "fZA8/cmSiuZyJp0HWa4KWvRQmVsmgNBxDPg/CSqv73o=",
             "BaseHookName": null,
             "HookCategory": "Fishing"
           }
@@ -16548,7 +16436,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "xDFWoa2oqoI+TeQBPm+Y636B+4Oz7mDDe51RNpc/ZG4=",
+            "MSILHash": "fZA8/cmSiuZyJp0HWa4KWvRQmVsmgNBxDPg/CSqv73o=",
             "BaseHookName": "CanCatchFish",
             "HookCategory": "Fishing"
           }
@@ -16556,7 +16444,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 590,
+            "InjectionIndex": 594,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
             "ArgumentString": "this.currentFishTarget, this, l1",
@@ -16572,7 +16460,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "xDFWoa2oqoI+TeQBPm+Y636B+4Oz7mDDe51RNpc/ZG4=",
+            "MSILHash": "fZA8/cmSiuZyJp0HWa4KWvRQmVsmgNBxDPg/CSqv73o=",
             "BaseHookName": "OnFishCatch",
             "HookCategory": "Fishing"
           }
@@ -16742,7 +16630,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 19,
+            "InjectionIndex": 22,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 3,
             "ArgumentString": null,
@@ -16758,10 +16646,11 @@
               "ReturnType": "System.Void",
               "Parameters": [
                 "BaseMission/MissionInstance",
-                "BasePlayer"
+                "BasePlayer",
+                "BaseMission/MissionFailReason"
               ]
             },
-            "MSILHash": "BMIBU9IQoIeGDW4ft3QuRKPQtYG4pdZhkSNs3ww5YkM=",
+            "MSILHash": "tFbnJYQfscKbQzyyRTVOYvY6MfWRU/rD9xz0aE7ZDcI=",
             "BaseHookName": null,
             "HookCategory": "Mission"
           }
@@ -17059,7 +16948,7 @@
         {
           "Type": "Modify",
           "Hook": {
-            "InjectionIndex": 60,
+            "InjectionIndex": 65,
             "RemoveCount": 0,
             "Instructions": [
               {
@@ -17100,7 +16989,7 @@
               {
                 "OpCode": "beq_s",
                 "OpType": "Instruction",
-                "Operand": 60
+                "Operand": 65
               },
               {
                 "OpCode": "ret",
@@ -17122,7 +17011,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "f586rlfKl5X0gwoRhggEqq2Cn9N+lVISFAtRprkbJQQ=",
+            "MSILHash": "R5YLIOOqU/rqcQAhE1SEcxvln1D5D/8jSESWGd47uVs=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -17677,7 +17566,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 91,
+            "InjectionIndex": 99,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 1,
             "ArgumentString": null,
@@ -17693,7 +17582,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "T8C1px3DCgnnvpWfP8z1eJj3YjcgmuTtS75DNuEMQZA=",
+            "MSILHash": "zz5cy3rp5BRLDVpJ93lQmRobBc+jqzyTT49bqtkg/0k=",
             "BaseHookName": "OnPlayerSleepEnd",
             "HookCategory": "Player"
           }
@@ -17953,7 +17842,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "n7CZUZa1/+Npk7Su+8zLsQ6WXCFexHdaYA/b6EeQJmM=",
+            "MSILHash": "42xfjkNOGeIYVQ6hkhDWbUYIFYpHEhHd6VIxkidQtNg=",
             "BaseHookName": null,
             "HookCategory": "Server"
           }
@@ -18157,7 +18046,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "lEUfdYfH7n9TNpb4y4JVpaejfyc3DTDTTYyg5xEXVnI=",
+            "MSILHash": "nWslbGD6K2embb8rJevROfs42a2qM5aOe14QO9ORrw0=",
             "BaseHookName": null,
             "HookCategory": "Crafting"
           }
@@ -18183,7 +18072,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "lEUfdYfH7n9TNpb4y4JVpaejfyc3DTDTTYyg5xEXVnI=",
+            "MSILHash": "nWslbGD6K2embb8rJevROfs42a2qM5aOe14QO9ORrw0=",
             "BaseHookName": "OnEntityReskin",
             "HookCategory": "Crafting"
           }
@@ -18930,9 +18819,109 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "RFZu0mx4YZ58yn8eeo6E6V/4qNNvwORx0d5taoi6Cow=",
+            "MSILHash": "k041+UJqczO5cnzk8fFi3+vHh4AnJnHrFqETmaf3v+U=",
             "BaseHookName": null,
             "HookCategory": "Item"
+          }
+        },
+        {
+          "Type": "Simple",
+          "Hook": {
+            "InjectionIndex": 86,
+            "ReturnBehavior": 0,
+            "ArgumentBehavior": 4,
+            "ArgumentString": "this.player, this.message",
+            "HookTypeName": "Simple",
+            "Name": "IOnPlayerCommand",
+            "HookName": "IOnPlayerCommand",
+            "AssemblyName": "Assembly-CSharp.dll",
+            "TypeName": "ConVar.Chat/<sayAs>d__14",
+            "Flagged": false,
+            "Signature": {
+              "Exposure": 0,
+              "Name": "MoveNext",
+              "ReturnType": "System.Void",
+              "Parameters": []
+            },
+            "MSILHash": "e6HqOGUu1fdVneIkwr08GSJd9/aU5dAhg2+QyKrcfDI=",
+            "BaseHookName": null,
+            "HookCategory": "Player"
+          }
+        },
+        {
+          "Type": "Simple",
+          "Hook": {
+            "InjectionIndex": 101,
+            "ReturnBehavior": 1,
+            "ArgumentBehavior": 4,
+            "ArgumentString": "this.userID, this.username, this.<strChatText>5__2, this.targetChannel, this.player",
+            "HookTypeName": "Simple",
+            "Name": "IOnPlayerChat",
+            "HookName": "IOnPlayerChat",
+            "AssemblyName": "Assembly-CSharp.dll",
+            "TypeName": "ConVar.Chat/<sayAs>d__14",
+            "Flagged": false,
+            "Signature": {
+              "Exposure": 0,
+              "Name": "MoveNext",
+              "ReturnType": "System.Void",
+              "Parameters": []
+            },
+            "MSILHash": "e6HqOGUu1fdVneIkwr08GSJd9/aU5dAhg2+QyKrcfDI=",
+            "BaseHookName": "IOnPlayerCommand",
+            "HookCategory": "Player"
+          }
+        },
+        {
+          "Type": "Simple",
+          "Hook": {
+            "InjectionIndex": 63,
+            "ReturnBehavior": 0,
+            "ArgumentBehavior": 4,
+            "ArgumentString": "l2, l4",
+            "HookTypeName": "Simple",
+            "Name": "OnPlayerKicked [EAC]",
+            "HookName": "OnPlayerKicked",
+            "AssemblyName": "Assembly-CSharp.dll",
+            "TypeName": "EACServer",
+            "Flagged": false,
+            "Signature": {
+              "Exposure": 0,
+              "Name": "OnClientActionRequired",
+              "ReturnType": "System.Void",
+              "Parameters": [
+                "Epic.OnlineServices.AntiCheatCommon.OnClientActionRequiredCallbackInfo&"
+              ]
+            },
+            "MSILHash": "lVddlEV1zm0GZSUCWKQ79cpq5VhcCY6jvoxmYuti4FU=",
+            "BaseHookName": null,
+            "HookCategory": "Player"
+          }
+        },
+        {
+          "Type": "Simple",
+          "Hook": {
+            "InjectionIndex": 79,
+            "ReturnBehavior": 0,
+            "ArgumentBehavior": 4,
+            "ArgumentString": "l2, l4",
+            "HookTypeName": "Simple",
+            "Name": "OnPlayerBanned [EAC]",
+            "HookName": "OnPlayerBanned",
+            "AssemblyName": "Assembly-CSharp.dll",
+            "TypeName": "EACServer",
+            "Flagged": false,
+            "Signature": {
+              "Exposure": 0,
+              "Name": "OnClientActionRequired",
+              "ReturnType": "System.Void",
+              "Parameters": [
+                "Epic.OnlineServices.AntiCheatCommon.OnClientActionRequiredCallbackInfo&"
+              ]
+            },
+            "MSILHash": "lVddlEV1zm0GZSUCWKQ79cpq5VhcCY6jvoxmYuti4FU=",
+            "BaseHookName": "OnPlayerKicked [EAC]",
+            "HookCategory": "Player"
           }
         }
       ],
@@ -31976,137 +31965,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "TrainCar::RearTrackSection",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 2,
-          "TargetExposure": [
-            2,
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              1,
-              0
-            ],
-            "Name": "RearTrackSection",
-            "FullTypeName": "TrainTrackSpline TrainCar::RearTrackSection()",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::TrackSpeed",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 2,
-          "TargetExposure": [
-            2,
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              2,
-              0
-            ],
-            "Name": "TrackSpeed",
-            "FullTypeName": "System.Single TrainCar::TrackSpeed()",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::FrontTrackSection",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 2,
-          "TargetExposure": [
-            2,
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              1,
-              1
-            ],
-            "Name": "FrontTrackSection",
-            "FullTypeName": "TrainTrackSpline TrainCar::FrontTrackSection()",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::ApplyCollisionDamage",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "ApplyCollisionDamage",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Single"
-            ]
-          },
-          "MSILHash": "F+OoUFenl7nDpB5mBB7vMHEhM/sRFGko068aSV9dMSI="
-        },
-        {
-          "Name": "TrainCar::ApplyCollisions",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "ApplyCollisions",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Single",
-              "System.Boolean",
-              "TriggerTrainCollisions",
-              "TrainCar/StaticCollisionState&",
-              "System.Single"
-            ]
-          },
-          "MSILHash": "lewaCGiVyIeLLIo6WQ1jiAYWj7DzNDrim/O/9lB/tiE="
-        },
-        {
-          "Name": "TrainCar::ApplyCollisionsToTrackSpeed",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "ApplyCollisionsToTrackSpeed",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Single",
-              "System.Single"
-            ]
-          },
-          "MSILHash": "s8XqINiX6g8gGMi4D9M3rQtHsxftfwLvEfppfbXZ/Hg="
-        },
-        {
           "Name": "TrainCar::DoServerDestroy",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "TrainCar",
@@ -32124,48 +31982,6 @@
             "Parameters": []
           },
           "MSILHash": "2zUsN4ziGN/iJBp0OopeshCRKaN2AphN2WoDoamVTcU="
-        },
-        {
-          "Name": "TrainCar::FixedUpdateMoveTrain",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "FixedUpdateMoveTrain",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Single"
-            ]
-          },
-          "MSILHash": "bXst+nrG69x+v5+L8+NNCQu7LDRcf9U4NS4pShSUTyk="
-        },
-        {
-          "Name": "TrainCar::FixedUpdateTrainOnTrack",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "FixedUpdateTrainOnTrack",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Single"
-            ]
-          },
-          "MSILHash": "M3XAOJk8IJqW523uhZ266Rj3QJUGnh9z5i8h5zaMT6o="
         },
         {
           "Name": "TrainCar::GetFrontWheelPos",
@@ -32204,100 +32020,6 @@
             "Parameters": []
           },
           "MSILHash": "tR3PUw2S6Fob+8A97A3NXigk2u0Uofns7S7BpIQtiXM="
-        },
-        {
-          "Name": "TrainCar::HandleRigidbodyCollision",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "HandleRigidbodyCollision",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Boolean",
-              "System.Single",
-              "UnityEngine.Rigidbody",
-              "System.Single",
-              "System.Single",
-              "System.Boolean"
-            ]
-          },
-          "MSILHash": "xwAP596h53XhVmpwjyLL6d+r8QEk9IDPslBRZzt7ErQ="
-        },
-        {
-          "Name": "TrainCar::HandleStaticCollisions",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "HandleStaticCollisions",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Boolean",
-              "System.Boolean",
-              "System.Single",
-              "TrainCar/StaticCollisionState&"
-            ]
-          },
-          "MSILHash": "i3himhJWT5KoLsHrYLHBAvu4NHXNH4JhaVH0jLZdHVc="
-        },
-        {
-          "Name": "TrainCar::HandleTrainCollision",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "HandleTrainCollision",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "System.Boolean",
-              "System.Single",
-              "TrainCar",
-              "System.Single",
-              "TrainCar/StaticCollisionState&"
-            ]
-          },
-          "MSILHash": "SvPRzLwPBHJr5T2iYr8R46cjBNBxICpU9hMK344i5EI="
-        },
-        {
-          "Name": "TrainCar::HasAnyCollisions",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              1
-            ],
-            "Name": "HasAnyCollisions",
-            "FullTypeName": "System.Boolean",
-            "Parameters": []
-          },
-          "MSILHash": "J6rclRdrO754BmGUNdxcnYMa7wIyxMYchifE+tLAvR4="
         },
         {
           "Name": "TrainCar::SetTrackSelection",
@@ -32783,25 +32505,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "TrainEngine::fxFinalExplosion",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainEngine",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "fxFinalExplosion",
-            "FullTypeName": "GameObjectRef TrainEngine::fxFinalExplosion",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
           "Name": "TrainEngine::fxHeavyDamage",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "TrainEngine",
@@ -33011,25 +32714,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "TrainEngine::platformParentTrigger",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainEngine",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "platformParentTrigger",
-            "FullTypeName": "TriggerParent TrainEngine::platformParentTrigger",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
           "Name": "TrainEngine::rightHandGrip",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "TrainEngine",
@@ -33106,25 +32790,6 @@
             ]
           },
           "MSILHash": "wJxsfKX4T6Fhaotpoa52ERbaKCW7fNp7I/MYRxafb1c="
-        },
-        {
-          "Name": "TrainEngine::AnyPlayersOnTrain",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainEngine",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "AnyPlayersOnTrain",
-            "FullTypeName": "System.Boolean",
-            "Parameters": []
-          },
-          "MSILHash": "N6HJr+S9shV8Jd6EjhsRGAB0DE0w4GdrTqKQiTwuh74="
         },
         {
           "Name": "TrainEngine::CanMount",
@@ -33338,28 +33003,6 @@
             "Parameters": []
           },
           "MSILHash": "KQ+55q+L2baGePYDQHD1ydMLSpL8Hpqt6Sx1hCW8NZw="
-        },
-        {
-          "Name": "TrainEngine::ServerFlagsChanged",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainEngine",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "ServerFlagsChanged",
-            "FullTypeName": "System.Void",
-            "Parameters": [
-              "BaseEntity/Flags",
-              "BaseEntity/Flags"
-            ]
-          },
-          "MSILHash": "u+KgjbbWm6T7qDCJ4ZylCSgI798fiCb1nDUsohxWBYE="
         },
         {
           "Name": "TrainEngine::SetThrottle",
@@ -33940,50 +33583,6 @@
             ]
           },
           "MSILHash": "9WOMbYMXbf2ZSQW7a4clfTY/2E5GAXtRVOc1xuYHrnY="
-        },
-        {
-          "Name": "TrainCar::GetTotalPushingForces",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              2
-            ],
-            "Name": "GetTotalPushingForces",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "UnityEngine.Vector3",
-              "System.Collections.Generic.List`1<TrainCar>"
-            ]
-          },
-          "MSILHash": "/OhLg5j39LsffvTKfmLNpKUNtHZZ+tawn2kyGe5fAQ8="
-        },
-        {
-          "Name": "TrainCar::GetTotalPushingMass",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "GetTotalPushingMass",
-            "FullTypeName": "System.Single",
-            "Parameters": [
-              "UnityEngine.Vector3",
-              "System.Collections.Generic.List`1<TrainCar>"
-            ]
-          },
-          "MSILHash": "tliSd2L6SNSl/PcgPNCbnyG9FHqVoyhPBWbNKyj81hU="
         },
         {
           "Name": "Elevator::ClearBusy",
@@ -34650,27 +34249,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "TrainTrackSpline::GetOverallVector",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainTrackSpline",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "GetOverallVector",
-            "FullTypeName": "UnityEngine.Vector3",
-            "Parameters": [
-              "TrainTrackSpline/TrackOrientation"
-            ]
-          },
-          "MSILHash": "i2mxRPUI0U16csVL2V4zIuX/idxrOWrLJJ4uTsANDck="
-        },
-        {
           "Name": "TrainTrackSpline::GetSplineDistAfterMove",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "TrainTrackSpline",
@@ -34783,25 +34361,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "TrainCar::collisionEffect",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "collisionEffect",
-            "FullTypeName": "GameObjectRef TrainCar::collisionEffect",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
           "Name": "TrainCar::corpseSeconds",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "TrainCar",
@@ -34816,25 +34375,6 @@
             ],
             "Name": "corpseSeconds",
             "FullTypeName": "System.Single TrainCar::corpseSeconds",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::curTrackSelection",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              1
-            ],
-            "Name": "curTrackSelection",
-            "FullTypeName": "TrainTrackSpline/TrackSelection TrainCar::curTrackSelection",
             "Parameters": []
           },
           "MSILHash": ""
@@ -34954,25 +34494,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "TrainCar::impactEnergyFraction",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "impactEnergyFraction",
-            "FullTypeName": "System.Single TrainCar::impactEnergyFraction",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
           "Name": "TrainCar::initialSpawnTime",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "TrainCar",
@@ -35011,44 +34532,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "TrainCar::nextCollisionFXTime",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "nextCollisionFXTime",
-            "FullTypeName": "System.Single TrainCar::nextCollisionFXTime",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::prevTrackSpeeds",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "prevTrackSpeeds",
-            "FullTypeName": "System.Collections.Generic.Dictionary`2<UnityEngine.Rigidbody,System.Single> TrainCar::prevTrackSpeeds",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
           "Name": "TrainCar::rearCollisionTrigger",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "TrainCar",
@@ -35063,44 +34546,6 @@
             ],
             "Name": "rearCollisionTrigger",
             "FullTypeName": "TriggerTrainCollisions TrainCar::rearCollisionTrigger",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::staticCollidingAtFront",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "staticCollidingAtFront",
-            "FullTypeName": "TrainCar/StaticCollisionState TrainCar::staticCollidingAtFront",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::staticCollidingAtRear",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "staticCollidingAtRear",
-            "FullTypeName": "TrainCar/StaticCollisionState TrainCar::staticCollidingAtRear",
             "Parameters": []
           },
           "MSILHash": ""
@@ -43084,25 +42529,6 @@
           "MSILHash": ""
         },
         {
-          "Name": "GroundVehicle::collisionEffect",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "GroundVehicle",
-          "Type": 0,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "collisionEffect",
-            "FullTypeName": "GameObjectRef GroundVehicle::collisionEffect",
-            "Parameters": []
-          },
-          "MSILHash": ""
-        },
-        {
           "Name": "DecayEntity::lastDecayTick",
           "AssemblyName": "Assembly-CSharp.dll",
           "TypeName": "DecayEntity",
@@ -43275,29 +42701,6 @@
             "Parameters": []
           },
           "MSILHash": ""
-        },
-        {
-          "Name": "TrainCar::SetTheRestFromFrontWheelData",
-          "AssemblyName": "Assembly-CSharp.dll",
-          "TypeName": "TrainCar",
-          "Type": 1,
-          "TargetExposure": [
-            2
-          ],
-          "Flagged": false,
-          "Signature": {
-            "Exposure": [
-              0
-            ],
-            "Name": "SetTheRestFromFrontWheelData",
-            "FullTypeName": "System.Void",
-            "Parameters": [
-              "TrainTrackSpline&",
-              "UnityEngine.Vector3",
-              "UnityEngine.Vector3"
-            ]
-          },
-          "MSILHash": "YSHhbPi5VPpdnT/OldtLVUe4yqhkVWE16g+8yE7UH84="
         },
         {
           "Name": "TrainCar::frontBogieCanRotate",
@@ -43985,6 +43388,312 @@
             "Parameters": []
           },
           "MSILHash": ""
+        },
+        {
+          "Name": "ConVar.Chat::textRange",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "ConVar.Chat",
+          "Type": 0,
+          "TargetExposure": [
+            2,
+            4
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "textRange",
+            "FullTypeName": "System.Single ConVar.Chat::textRange",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "ConVar.Chat::textVolumeBoost",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "ConVar.Chat",
+          "Type": 0,
+          "TargetExposure": [
+            2,
+            4
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "textVolumeBoost",
+            "FullTypeName": "System.Single ConVar.Chat::textVolumeBoost",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "ConVar.Chat::GetNameColor",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "ConVar.Chat",
+          "Type": 1,
+          "TargetExposure": [
+            2,
+            4
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              3
+            ],
+            "Name": "GetNameColor",
+            "FullTypeName": "System.String",
+            "Parameters": [
+              "System.UInt64",
+              "BasePlayer"
+            ]
+          },
+          "MSILHash": "PHEELK6NR/AC7+K549yPcjAIfMJYePL5U/+Fi8QzSYQ="
+        },
+        {
+          "Name": "TrainCar::FrontTrackSection",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 2,
+          "TargetExposure": [
+            2,
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              2,
+              0
+            ],
+            "Name": "FrontTrackSection",
+            "FullTypeName": "TrainTrackSpline TrainCar::FrontTrackSection()",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::RearTrackSection",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 2,
+          "TargetExposure": [
+            2,
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              2,
+              0
+            ],
+            "Name": "RearTrackSection",
+            "FullTypeName": "TrainTrackSpline TrainCar::RearTrackSection()",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::_frontTrackSection",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 0,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "_frontTrackSection",
+            "FullTypeName": "TrainTrackSpline TrainCar::_frontTrackSection",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::coupleSound",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 0,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "coupleSound",
+            "FullTypeName": "SoundDefinition TrainCar::coupleSound",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::frontBogieLocalOffset",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 0,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "frontBogieLocalOffset",
+            "FullTypeName": "UnityEngine.Vector3 TrainCar::frontBogieLocalOffset",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::frontCoupling",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 0,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "frontCoupling",
+            "FullTypeName": "UnityEngine.Transform TrainCar::frontCoupling",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::fxDestroyed",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 0,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "fxDestroyed",
+            "FullTypeName": "GameObjectRef TrainCar::fxDestroyed",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::platformParentTrigger",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 0,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "platformParentTrigger",
+            "FullTypeName": "TriggerParent TrainCar::platformParentTrigger",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::rearCoupling",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 0,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "rearCoupling",
+            "FullTypeName": "UnityEngine.Transform TrainCar::rearCoupling",
+            "Parameters": []
+          },
+          "MSILHash": ""
+        },
+        {
+          "Name": "TrainCar::MoveFrontWheelsAlongTrackSpline",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 1,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "MoveFrontWheelsAlongTrackSpline",
+            "FullTypeName": "System.Void",
+            "Parameters": [
+              "TrainTrackSpline",
+              "System.Single",
+              "System.Single",
+              "TrainTrackSpline",
+              "TrainTrackSpline/TrackSelection"
+            ]
+          },
+          "MSILHash": "8PjvgxLsjWbX1NpEpCGaT9S5JhiFH9qx1jFL0OI6NX8="
+        },
+        {
+          "Name": "TrainCar::SetTheRestFromFrontWheelData",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 1,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "SetTheRestFromFrontWheelData",
+            "FullTypeName": "System.Void",
+            "Parameters": [
+              "TrainTrackSpline&",
+              "UnityEngine.Vector3",
+              "UnityEngine.Vector3",
+              "TrainTrackSpline/TrackSelection"
+            ]
+          },
+          "MSILHash": "ckTFwXIaowATRY3pHXoXDywD0VOBcO8laCokY/DEn0c="
+        },
+        {
+          "Name": "TrainCar::UpdateClients",
+          "AssemblyName": "Assembly-CSharp.dll",
+          "TypeName": "TrainCar",
+          "Type": 1,
+          "TargetExposure": [
+            2
+          ],
+          "Flagged": false,
+          "Signature": {
+            "Exposure": [
+              0
+            ],
+            "Name": "UpdateClients",
+            "FullTypeName": "System.Void",
+            "Parameters": []
+          },
+          "MSILHash": "rGW6c0SETwi7WkfxR4AFZZ8t3tb0S0KMSQL6GVxkl2U="
         }
       ],
       "Fields": [
